@@ -88,7 +88,7 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    # assetsPrefix: /template.publish.github-action
+    assetsPrefix: /maxx4454.github.io
     copyAssets: true
     siteHierarchies:
         - root

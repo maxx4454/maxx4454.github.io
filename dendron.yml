@@ -20,6 +20,8 @@ commands:
     randomNote: {}
     copyNoteLink: {}
 workspace:
+    permissions:
+        contents: write
     vaults:
         -
             fsPath: vault
